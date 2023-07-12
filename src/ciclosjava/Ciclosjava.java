@@ -7,6 +7,7 @@ package ciclosjava;
 public class Ciclosjava {
 
     public static void main(String[] args) {
+       //HOLA
         //while
         /* var contador = 0;
         while (contador < 3) {
